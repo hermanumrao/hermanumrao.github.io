@@ -1,0 +1,150 @@
+{
+  "name": "Herman Singh Umrao",
+  "role": "Robotics & Edge AI Engineer",
+  "tagline": "MARS Lab · ROS 2 · SLAM · Edge AI",
+  "intro": {
+    "greeting": "Hello, World!",
+    "headline": "I'm Herman.",
+    "positions": [
+      "Research Intern @ MARS Lab, PES University",
+      "ROS 2 · SLAM · Perception · Edge AI",
+      "PESU CSE (AI & ML) '26",
+      "Founder & Club Head — LinuxLegion"
+    ]
+  },
+  "social": [
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/herman-singh-umrao/" },
+    { "label": "GitHub", "url": "https://github.com/hermanumrao" },
+    { "label": "Email", "url": "mailto:hermanumrao@gmail.com" },
+    { "label": "Discord", "url": "https://discordapp.com/users/879406722723246120" }
+  ],
+  "cv": "./assets/Resume-dec_2025_work.pdf",
+  "avatar": "https://avatars.githubusercontent.com/u/63940157?v=4",
+  "contact": {
+    "email": "hermanumrao@gmail.com",
+    "location": "Bangalore, Karnataka",
+    "portfolio": "https://hermanumrao.github.io/portfolio/",
+    "github": "https://github.com/hermanumrao",
+    "linkedin": "https://www.linkedin.com/in/herman-singh-umrao/"
+  },
+  "summary": "Robotics and Edge AI engineer with hands-on experience building and deploying autonomous drones and mobile robots on real hardware. Currently working at PES University's Mobile and Autonomous Robotic Systems (MARS) Lab, developing ROS 2–based SLAM, perception, and navigation systems using IMU–LiDAR fusion and monocular vision.",
+  "skills": [
+    { "cat": "Programming", "items": ["C++", "Python", "Rust", "Bash", "Makefile"] },
+    { "cat": "Robotics", "items": ["ROS 2 Humble/Jazzy", "SLAM", "Isaac ROS", "Gazebo", "RViz2", "Nav2"] },
+    { "cat": "Edge AI & ML", "items": ["PyTorch", "TensorFlow", "TFLite", "ONNX", "YOLO", "OpenCV", "MediaPipe"] },
+    { "cat": "Embedded", "items": ["STM32", "Arduino", "ESP32", "Pixhawk", "Raspberry Pi", "Intel RealSense"] },
+    { "cat": "Systems", "items": ["Linux (Arch/Ubuntu)", "Docker", "Git", "FreeCAD", "Blender", "FDM 3D Printing"] }
+  ],
+  "experience": [
+    {
+      "title": "Research Intern",
+      "org": "Mobile & Autonomous Robotic Systems Labs @ PESU",
+      "period": "Nov 2024 – Present",
+      "bullets": [
+        "Built and deployed autonomous drones and mobile robots using ROS 2",
+        "Implemented SLAM, visual odometry, and navigation pipelines for GPS-denied environments",
+        "Integrated IMU–LiDAR fusion and monocular vision on real robotic platforms",
+        "Designed drone testing jigs and automated PID tuning workflows"
+      ]
+    },
+    {
+      "title": "ROS for Autonomous Systems",
+      "org": "PES University",
+      "period": "Aug 2025 – Dec 2025",
+      "bullets": [
+        "Developed course slides, lab exercises, and instructional media for ROS-based robotics",
+        "Supported students during labs and project work under faculty supervision"
+      ]
+    },
+    {
+      "title": "Founder & Club Head",
+      "org": "LinuxLegion",
+      "period": "Jan 2024 – Jun 2025",
+      "bullets": [
+        "Co-founded and led a community of 50+ students focused on Linux and open-source",
+        "Organized hands-on workshops, technical talks, and peer-learning sessions"
+      ]
+    },
+    {
+      "title": "Software Development Intern",
+      "org": "Tech Mahindra Cerium Pvt Ltd",
+      "period": "Jun 2024 – Jul 2024",
+      "bullets": [
+        "Developed AI-based human emotion detection with real-time computer vision inference",
+        "Presented working prototypes to internal technical teams"
+      ]
+    },
+    {
+      "title": "Research Intern",
+      "org": "CIE @ PESU · Intel Simics",
+      "period": "Jan 2024 – May 2024",
+      "bullets": [
+        "Worked with Intel Simics full-system simulator for chipset development",
+        "Gained exposure to Intel CISC and RISC-V platform architectures"
+      ]
+    },
+    {
+      "title": "Teaching Assistant",
+      "org": "SOC Design & Computer Architecture, PES University",
+      "period": "Aug 2023 – Dec 2023",
+      "bullets": [
+        "Created audiovisual learning content published on the official university platform",
+        "Assisted students under Dr. Jayashree and Nagegowda K. S."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech Computer Science (AI & ML)",
+      "school": "PES University",
+      "period": "Sep 2022 – Sep 2026"
+    },
+    {
+      "degree": "Senior Secondary & High School",
+      "school": "HAL Public School",
+      "period": "2008 – 2022"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Reloc3D-ROS2",
+      "desc": "Global 3D LiDAR relocalization using TEASER++ and GICP for FAST-LIO pipelines.",
+      "tags": ["ROS 2", "C++", "SLAM"]
+    },
+    {
+      "name": "Autonomous Navigation Stack",
+      "desc": "Full ROS 2 navigation stack with LiDAR/stereo SLAM for mobile robots.",
+      "tags": ["ROS 2", "Nav2", "SLAM"]
+    },
+    {
+      "name": "Monocular Visual Odometry",
+      "desc": "VO pipelines and 3D scene reconstruction from monocular depth estimation.",
+      "tags": ["OpenCV", "Python", "CV"]
+    },
+    {
+      "name": "Drone PID Tuning Jig",
+      "desc": "Automated thrust measurement and PID tuning hardware for multirotor platforms.",
+      "tags": ["Embedded", "3D Print", "Control"]
+    },
+    {
+      "name": "Edge AI CCTV",
+      "desc": "Minimalistic AI-powered CCTV on Pi Zero hardware for real-time inference.",
+      "tags": ["Edge AI", "TFLite", "IoT"]
+    },
+    {
+      "name": "Qt Turtlebot Relocalizer",
+      "desc": "Qt dashboard for turtlebot relocalization monitoring and debugging.",
+      "tags": ["Qt", "ROS 2", "Python"]
+    },
+    {
+      "name": "IMU-LiDAR 3D Mapping",
+      "desc": "3D mapping rover configuration using FAST-LIO and point-cloud processing.",
+      "tags": ["LiDAR", "C++", "Mapping"]
+    },
+    {
+      "name": "Docker-Hadoop",
+      "desc": "Single Docker image bundling Kafka, Spark, Hive, HBase, and full Big-Data stack.",
+      "tags": ["Docker", "Big Data"]
+    }
+  ]
+}
