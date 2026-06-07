@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "ROS2 Powered RTAB-Map with RealSense",
+    "source": "NvWA1e5u2YU",
+    "desc": "Demonstration of SLAM using ROS 2 and Intel RealSense hardware."
+  },
+  {
+    "id": 2,
+    "title": "Modern Robotic Perception with Intel RealSense",
+    "source": "N3955eTDkXg",
+    "desc": "Exploring depth perception and point-cloud processing for autonomous navigation."
+  },
+  {
+    "id": 3,
+    "title": "Real-Time AI with NVIDIA Isaac ROS",
+    "source": "UgyQAynAciE",
+    "desc": "Optimizing perception pipelines using NVIDIA Isaac ROS accelerated frameworks."
+  }
+]
